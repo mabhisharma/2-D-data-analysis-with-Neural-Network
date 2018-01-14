@@ -28,3 +28,5 @@ For one particular data sample *x*<sup>(*i*)</sup>:
 <p align="center">
   <img src="/Plots/2d-NN.PNG" alt="One dimensional data with two classes" height="200" width="300" />
 </p>
+
+We will use the above maths to calculate output from each layer. Here a1 is 3-Dimensional which is the output from hidden layer and a2 is 1-Dimensional which is the output from output layer. As this is a two class classification problem we will just we sigmoid in the output layer as activation function and in the hidden layer we will use Tanh as the activation function. We will use the regular gradient descent approach to find the optimized weights and bias vectors for each layer. At every iteration of the gradient descent we will store the output from the hidden layer i.e. 3 dimensional vector which is the output from 3 units of the hidden layer. We will also store the weights and bias vectors of the last layer at each gradient descent step. The hidden layer acts as input, specifically a 3-dimensional input, and weights and bias vector in the last layer acts the decision boundary plane.
