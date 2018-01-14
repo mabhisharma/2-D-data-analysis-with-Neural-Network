@@ -14,5 +14,5 @@ For the analysis we will just concentrate on the three output from the three hid
 
 </br>
 <p align="center">
-  <img src="/Plots/2d-NN.png" alt="One dimensional data with two classes" height="200" width="300" />
+  <img src="/Plots/2d-NN.PNG" alt="One dimensional data with two classes" height="200" width="300" />
 </p>
