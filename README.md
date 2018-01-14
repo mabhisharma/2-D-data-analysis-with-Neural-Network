@@ -49,3 +49,5 @@ Last we will see the whole process of the transformation of the 2-D data in 3-D 
 <p align="center">
   <img src="3-ddata-tranformation.gif" alt="Transformation of 2-D data to 3-D" height="300" width="400" />
 </p>
+# References -
+http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
