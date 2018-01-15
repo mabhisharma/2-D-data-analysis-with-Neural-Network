@@ -1,6 +1,7 @@
-import numpy as np 
-import sklearn.datasets
-
+#########################
+#Author : Abhishek Sharma
+#########################
+import numpy as np
 
 class NeuralNet(object):
 	"""docstring for NeuralNet"""
